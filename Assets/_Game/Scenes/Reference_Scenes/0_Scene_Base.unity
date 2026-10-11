@@ -264,13 +264,13 @@ GameObject:
   - component: {fileID: 250072703}
   - component: {fileID: 250072702}
   - component: {fileID: 250072701}
-  m_Layer: 0
-  m_Name: Ground
+  m_Layer: 7
+  m_Name: Tile map ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &250072700
 Transform:
   m_ObjectHideFlags: 0
@@ -1292,12 +1292,12 @@ GameObject:
   - component: {fileID: 1563394041}
   - component: {fileID: 1563394040}
   m_Layer: 0
-  m_Name: Grid
+  m_Name: Tilemap Grid
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!156049354 &1563394040
 Grid:
   m_ObjectHideFlags: 0
